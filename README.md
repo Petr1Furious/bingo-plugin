@@ -26,4 +26,6 @@ There are 3 game modes:
 - **butfast**: Players have to collect any items in a 5x5 grid as quickly as possible. First one to collect an items gets the most points for it, the second one gets a bit less, etc. The game ends in a time fixed for each difficulty level.
 - **collectall**: Players are given a 3x3 grid and have to collect all items from it as fast as possible. When everyone except for 1 player finishes, the game ends, and the players get scores respectively to their place.
 
+After the game finishes, the host can either finish it by running "/bingo end" or start another round with the same players, mode and difficulty by running "/bingo start".
+
 ## Example
