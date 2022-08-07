@@ -1,0 +1,32 @@
+enable-speed-bonus: true
+enable-fire-resistance-effect: false
+enable-water-breathing-effect: true
+enable-night-vision-effect: true
+give-initial-items: true
+prevent-fall-damage: true
+teleport-back-on-death: true
+return-items-on-death: true
+fix-bingo-card: false
+show-global-score: true
+default-world-name: world
+countdown-time: 10
+punishment-time: 10
+after-game-time: 10
+default-game-duration:
+   '0': 600
+   '1': 1200
+   '2': 3600
+   '3': 10800
+   '4': 14400
+butfast-game-duration:
+   '0': 300
+   '1': 600
+   '2': 1800
+   '3': 5400
+   '4': 7200
+collectall-game-duration:
+   '0': 900
+   '1': 1800
+   '2': 5400
+   '3': 16200
+   '4': 21600
